@@ -34,7 +34,7 @@
             margin-top: 20px;
         }
         #bottom {
-            margin-top: 800px; 
+            margin-top: 1600px; 
         }
     </style>
 </head>
@@ -58,11 +58,11 @@
         <img src="https://cdn.discordapp.com/attachments/1082769331399708772/1276661148728688751/IMG_4427.PNG?ex=66ca56d9&is=66c90559&hm=03f6c015d8fcc1b808d596a468084cbb455ad0ba1fc916c4e3c53d09b6170c78&" alt="Фото 6" class="photo">
     </div>
 
-    <a href="#bottom" class="button">Перейти вниз</a>
+    <a href="#bottom" class="button">(๑•̀ᗝ•́)૭Бацай сюда💥</a>
 </div>
 
 <div id="bottom">
-    <img src="https://cdn.discordapp.com/attachments/1082769331399708772/1276668155279708233/image.psd_1_1_1.png?ex=66ca5d5f&is=66c90bdf&hm=6cf9d533b23078b5be7a05c8b8e0f0d3a592feddf80f3e5a5e12086c1e907891&" alt="Фото 7">
+    <img src="https://cdn.discordapp.com/attachments/1082769331399708772/1276664040856223807/image.psd_1.png?ex=66ca598a&is=66c9080a&hm=3f8d43b6d53ea117c2a16b1eb15aa8b9a6443b4d90f7e944e698e9673159a167&" alt="Фото 7">
 </div>
 
 </body>
