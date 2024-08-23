@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
@@ -8,14 +8,14 @@
         body {
             font-family: Arial, sans-serif;
             text-align: center;
-            background-image: url('https://img.freepik.com/free-vector/valentines-day-frame-vector-cute-heart-border-design_53876-143317.jpg?t=st=1724449309~exp=1724452909~hmac=0d0cbf78cfeee95d6517ef3ac8c0d1d2b7012c6a20abf6bb0d655d6e872c74a0&w=740'); /* Путь к фоновому изображению */
+            background-image: url('https://img.freepik.com/free-vector/valentines-day-frame-vector-cute-heart-border-design_53876-143317.jpg?t=st=1724449309~exp=1724452909~hmac=0d0cbf78cfeee95d6517ef3ac8c0d1d2b7012c6a20abf6bb0d655d6e872c74a0&w=740'); 
             background-size: cover;
             background-attachment: fixed;
         }
         .container {
             max-width: 600px;
             margin: auto;
-            background-color: rgba(255, 255, 255, 0.6); /* Полупрозрачный фон для читаемости текста */
+            background-color: rgba(255, 255, 255, 0.6); 
             padding: 20px;
             border-radius: 10px;
         }
@@ -34,7 +34,7 @@
             margin-top: 20px;
         }
         #bottom {
-            margin-top: 800px; /* Увеличенный пробел */
+            margin-top: 800px; 
         }
     </style>
 </head>
