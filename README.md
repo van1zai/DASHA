@@ -59,11 +59,11 @@
     </div>
 
     <a href="#bottom" class="button">(๑•̀ᗝ•́)૭Бацай сюда💥</a>
-</div>
+
 
 <div id="bottom">
     <img src="https://cdn.discordapp.com/attachments/1082769331399708772/1276664040856223807/image.psd_1.png?ex=66ca598a&is=66c9080a&hm=3f8d43b6d53ea117c2a16b1eb15aa8b9a6443b4d90f7e944e698e9673159a167&" alt="Фото 7">
 </div>
-
+</div>
 </body>
 </html>
